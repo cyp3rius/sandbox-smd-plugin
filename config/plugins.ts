@@ -6,8 +6,8 @@ export default () => ({
             cascadeMenuAttached: true,
         },
     },
-    // 'multi-domain': {
-    //     enabled: true,
-    //     config: {},
-    // },
+    'multi-domain': {
+        enabled: true,
+        config: {},
+    },
 });
