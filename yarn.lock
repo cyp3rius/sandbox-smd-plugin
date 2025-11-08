@@ -2081,10 +2081,10 @@
     argparse "~1.0.9"
     string-argv "~0.3.1"
 
-"@sensinum/strapi-plugin-multi-domain@^5.1.2-beta.1":
-  version "5.1.2-beta.1"
-  resolved "https://registry.yarnpkg.com/@sensinum/strapi-plugin-multi-domain/-/strapi-plugin-multi-domain-5.1.2-beta.1.tgz#84f226c452cf83a7a94c65b514d392c00c7c6e74"
-  integrity sha512-KvQtfhg7m8K5sc28l+ZuUq+WvNt/El6OJjHqOJrNcYZZSy4gXHvtDtO2jwQGDVPrcyAG0neGFj6OLxbRG4SEOg==
+"@sensinum/strapi-plugin-multi-domain@^5.1.2":
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/@sensinum/strapi-plugin-multi-domain/-/strapi-plugin-multi-domain-5.1.2.tgz#3b5abae4009442719a3e7dd4e67584f14a22e731"
+  integrity sha512-nq95IGtd32uh8FH2Uq8Mb1oKIw2nqyJRYOxaydO0rTeS3mYDYsJc3KBje4+bGlAt5eoJbbYdCRxjfl95US5H+Q==
   dependencies:
     "@strapi/design-system" "^2.0.0-rc.27"
     "@strapi/icons" "^2.0.0-rc.27"
